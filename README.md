@@ -16,3 +16,5 @@ https://www.healthaffairs.org/doi/10.1377/hlthaff.2011.0813
 https://www.healthaffairs.org/doi/full/10.1377/hlthaff.4.3.67
 https://www.kff.org/report-section/uncompensated-care-for-the-uninsured-in-2013-a-detailed-examination-introduction/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3160596/
+
+I have a similar view on Cost Shifting.
